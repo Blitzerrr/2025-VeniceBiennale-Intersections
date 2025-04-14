@@ -28,13 +28,13 @@ const tags = [
 
 const items = [
     {
-        name: "Alison Depew",
+        name: "Not Alison Depew",
         projectTitle: "Neuronto Muscle",
         projectDescription: "Testing a really long description, like holy cow it's really long and I'm not sure how it will look on the page. I guess we'll find out. It just keeps going. What's happening, this is hell. Please stop. How many characters is this?",
         color: "#ff5733",
         biennaleTags: ["Air", "Water"],
         contributers: ["Alison Depew", "John Doe", "Jane Smith"],
-        image: "images/2_reflection.jpg",
+        image: "./images/2_reflection.jpg",
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"]
     },
     {
@@ -44,7 +44,7 @@ const items = [
         color: "#ff0000",
         biennaleTags: ["Built-Environment", "Roads"],
         contributers: [],
-        image: "images/tile-2.png",
+        image: "./images/tile-2.png",
         imageSecondary: []
     },
     {
@@ -54,7 +54,7 @@ const items = [
         color: "#00ff00",
         biennaleTags: ["Innovation", "Air"],
         contributers: [],
-        image: "images/tile-3.jpg",
+        image: "./images/tile-3.jpg",
         imageSecondary: []
     },
     {
