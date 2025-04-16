@@ -1,31 +1,31 @@
 const tags = [
     {
         tagName: "SUSTAIN",
-        tagSubName: "Air & Water"
+        tagSubName: "Air & Water",
         subTags: ["heart", "brain", "body"],
         color: "#FF0000", // Red
     },
     {
         tagName: "RESIST",
-        tagSubName: "Climate"
+        tagSubName: "Climate",
         subTags: ["pollution", "microbes", "toxins"],
         color: "#FFA500", // Orange
     },
     {
         tagName: "ACCESS",
-        tagSubName: "Mental Health"
+        tagSubName: "Mental Health",
         subTags: ["walls", "windows", "doors"],
         color: "#FFFF00", // Yellow
     },
     {
         tagName: "ADAPT",
-        tagSubName: "The Built Environment"
+        tagSubName: "The Built Environment",
         subTags: ["cars", "bikes", "trucks"],
         color: "#008000", // Green
     },
     {
         tagName: "INNOVATE",
-        tagSubName: "Technology"
+        tagSubName: "Technology",
         subTags: ["Invention", "Creativity", "Technology"],
         color: "#0000FF", // Blue
     },
