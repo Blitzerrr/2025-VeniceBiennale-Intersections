@@ -352,22 +352,8 @@ function displayAllItems() {
     newWindow.document.close();
 }
 
-// Function to create a button in the top-left corner
-function createInfoButton() {
-    const button = document.createElement('button');
-    button.textContent = "View All Items";
-    button.classList.add('info-button'); // Add a CSS class for styling
-
-    // Attach the displayAllItems function to the button's click event
-    button.addEventListener("click", displayAllItems);
-
-    // Add the button to the body
-    document.body.appendChild(button);
-}
-
 // Call the function to create the button when the page loads
 window.onload = function () {
-    createInfoButton();
     createGridItems(); // Ensure the grid is created when the page loads
 };
 
