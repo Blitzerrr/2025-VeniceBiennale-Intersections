@@ -69,7 +69,7 @@ function createGridItems() {
         tagItem.style.backgroundColor = tag.color; // Set the background color based on the tag
         tagItem.textContent = tag.tagName; // Set the text to the tag name
         tagItem.style.color = 'white'; // Set text color
-        tagItem.style.fontSize = '1rem'; // Adjust font size
+        tagItem.style.fontSize = '0.75rem'; // Adjust font size
         tagItem.style.fontWeight = 'bold'; // Make the text bold
         tagItem.style.textAlign = 'center'; // Center the text horizontally
         tagItem.style.display = 'flex'; // Use flexbox for centering
