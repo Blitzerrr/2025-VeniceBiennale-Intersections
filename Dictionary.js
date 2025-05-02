@@ -118,15 +118,6 @@ const items = [
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
-        projectTitle: "Philadelphia Family Court Sensory Space Redesign - Jefferson Center for Autism and Neurodiversity",
-        projectDescription: "Family Court can be overwhelming. The Family Division of the Court of Common Pleas of Philadelphia (Family Court) handles cases related to family law, including divorce, child custody, child and spousal support, domestic violence, and juvenile matters. Families are understandably anxious about the outcome and managing neurodiverse family members in a public formal space. The Philadelphia Family Court recognized these issues and approached the Jefferson Center for Autism and Neurodiversity (JeffCAN) to discuss how the needs of families could be met given the parameters of formal court proceedings. After several meetings with court administrators, courtroom tours, and environmental assessments, plans were developed to redesign an underused space in the courthouse. Family Court administrators and JeffCAN staff collaborated to create a relaxing, yet active, quiet space. Court administrators and building maintenance staff consulted with occupational therapists, neurodiverse experts, and experienced parents to create a neurodiverse-friendly space for children and adults. Away from the bustling waiting area for the courtrooms, the innovative design allows dimmable lighting and a variety of seating and activity options, including rocking chairs for adults, beanbags, fine and gross motor activities for children and young adults. Noise cancelling headphones and fidgets are also available to address sensory needs. (Additional photos are available with adult spaces and ceiling modifications.) The court check-in process includes administrators providing lead time for families to re-enter their courtroom in time for formal proceedings.",
-        creatorName: "Sabra Townsend",
-        color: "#ffffff",
-        categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
-    },
-    {
         projectTitle: "Textile Facades-Explorations in controling solar gain with textiles",
         projectDescription: "This paper examines the key requirements of façade systems to determine whether membranes are a viable option for creating thermal comfort for occupants and creating a healthy environment. Since heat transfer is a critical factor in solar protection, in this research, the basic heat transfer principles will be discussed, and the ESTM24 Test Method is utilized as the Standard Test Method for Solar Energy Transmittance. To conduct the experiments, two testing apparatuses—boxes approximately 17 in² in size—are used. When testing outdoors, measurements are taken under clear sky conditions, while indoor tests are conducted on cloudy days. To simulate sunlight intensity indoors, four 50-W tungsten lamps are strategically placed using a calculated distance to match real-world solar exposure. The heat transfer characteristics of different textiles are measured and analyzed for each testing condition. Finally, the experimental results are compared with simulations using Honeybee to assess accuracy and reliability.",
         creatorName: "Mojgan Sadat Akhavani, Darya Afshar, Rajshree K-C",
@@ -163,15 +154,6 @@ const items = [
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
-        projectTitle: "Motivity: Getting Patients Moving",
-        projectDescription: "Increasingly, evidence suggests patients who ambulate following surgery have improved outcomes. Today, much of this patient activity requires the time and attention of a nurse on the service, with the patient tethered to an IV pole for medication. While IV poles are in every patient’s hospital room, their form has barely changed since their conception in 1904. At that time, the model of care did not encourage patients to move about the hospital as is routine today. Moreover, the scope and types of equipment fastened to this pole have changed considerably over the last century, and it no longer sits motionless at an immobile patient’s bedside. Meet Motivity. Motivity is a proposed IV system that addresses the mobility, stability, and ease of patient navigation, accommodating adult and pediatric patient populations for patients to navigate the array of potential hazards associated with ambulation with the standard IV pole. The team has advanced technical development through working prototypes, leveraging custom 3D printed handles and joints to secure the Motivity system’s components and off-the-shelf parts, including smoothly articulating wheels and telescoping mechanisms. The team completed nearly 100 hours of nurse and team member observation at Jefferson Abington Hospital to assess patients' walking and identify specific pain points. A pilot study of nursing-driven prototype evaluations was recently featured in the Journal of Health Design.",
-        creatorName: "David Gordon (Motivity Team)",
-        color: "#ffffff",
-        categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
-    },
-    {
         projectTitle: "Mechanism and Therapeutic Development for Hyperinfection by Strongyloides Stercoralis",
         projectDescription: "Humans infected with S. stercoralis routinely maintain long-term chronic infections, which may evolve into fatal hyperinfection if the patient is treated with steroids or is co-infected with HTLV-1.  We have reported that NSG mice are susceptible to the complete life-cycle of S. stercoralis and will develop hyperinfection if exposed to steroids.  Further, treatment of mice with dafachronic acid significantly reduced the worm burden in mice undergoing hyperinfection.  Current research is directed at determining the mechanism of steroid induced hyperinfection and the interaction between S. stercoralis and HTLV-1 in humanized mice.",
         creatorName: "David Abraham",
@@ -186,6 +168,15 @@ const items = [
         creatorName: "Peng Du",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Philadelphia Family Court Sensory Space Redesign - Jefferson Center for Autism and Neurodiversity",
+        projectDescription: "Family Court can be overwhelming. The Family Division of the Court of Common Pleas of Philadelphia (Family Court) handles cases related to family law, including divorce, child custody, child and spousal support, domestic violence, and juvenile matters. Families are understandably anxious about the outcome and managing neurodiverse family members in a public formal space. The Philadelphia Family Court recognized these issues and approached the Jefferson Center for Autism and Neurodiversity (JeffCAN) to discuss how the needs of families could be met given the parameters of formal court proceedings. After several meetings with court administrators, courtroom tours, and environmental assessments, plans were developed to redesign an underused space in the courthouse. Family Court administrators and JeffCAN staff collaborated to create a relaxing, yet active, quiet space. Court administrators and building maintenance staff consulted with occupational therapists, neurodiverse experts, and experienced parents to create a neurodiverse-friendly space for children and adults. Away from the bustling waiting area for the courtrooms, the innovative design allows dimmable lighting and a variety of seating and activity options, including rocking chairs for adults, beanbags, fine and gross motor activities for children and young adults. Noise cancelling headphones and fidgets are also available to address sensory needs. (Additional photos are available with adult spaces and ceiling modifications.) The court check-in process includes administrators providing lead time for families to re-enter their courtroom in time for formal proceedings.",
+        creatorName: "Sabra Townsend",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
         imagePrimary: "images/2_reflection.jpg",
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
@@ -366,6 +357,15 @@ const items = [
         creatorName: "Severino Alfonso",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Motivity: Getting Patients Moving",
+        projectDescription: "Increasingly, evidence suggests patients who ambulate following surgery have improved outcomes. Today, much of this patient activity requires the time and attention of a nurse on the service, with the patient tethered to an IV pole for medication. While IV poles are in every patient’s hospital room, their form has barely changed since their conception in 1904. At that time, the model of care did not encourage patients to move about the hospital as is routine today. Moreover, the scope and types of equipment fastened to this pole have changed considerably over the last century, and it no longer sits motionless at an immobile patient’s bedside. Meet Motivity. Motivity is a proposed IV system that addresses the mobility, stability, and ease of patient navigation, accommodating adult and pediatric patient populations for patients to navigate the array of potential hazards associated with ambulation with the standard IV pole. The team has advanced technical development through working prototypes, leveraging custom 3D printed handles and joints to secure the Motivity system’s components and off-the-shelf parts, including smoothly articulating wheels and telescoping mechanisms. The team completed nearly 100 hours of nurse and team member observation at Jefferson Abington Hospital to assess patients' walking and identify specific pain points. A pilot study of nursing-driven prototype evaluations was recently featured in the Journal of Health Design.",
+        creatorName: "David Gordon (Motivity Team)",
+        color: "#ffffff",
+        categoryTags: ["Innovate"], // Updated
         imagePrimary: "images/2_reflection.jpg",
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
