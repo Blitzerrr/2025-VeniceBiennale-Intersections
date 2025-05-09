@@ -245,7 +245,7 @@ function DetailedInfo(clickedButton) {
 
     // Add the creator name underneath the description
     const creator = document.createElement('p');
-    creator.textContent = `Credits: ${clickedButton.dataset.creatorName || "Unknown"}`; // Use creatorName for the paragraph
+    creator.textContent = `Credits:<br> ${clickedButton.dataset.creatorName || "Unknown"}`; // Use creatorName for the paragraph
     creator.classList.add('popup-creator'); // Use CSS class for styling
 
     // Append text elements to the right column
