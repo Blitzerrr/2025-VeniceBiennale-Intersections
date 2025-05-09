@@ -190,7 +190,7 @@ html, body {
 
 /* Styling for the creator name */
 .popup-creator {
-    font-size: 0.9rem; /* Slightly smaller than the title */
+    font-size: .35rem !important; /* Slightly smaller than the title */
     font-style: italic; /* Italicize the text */
     color: #555; /* Use a subtle gray color */
     margin: 0 0 10px; /* Add spacing below the creator name */
