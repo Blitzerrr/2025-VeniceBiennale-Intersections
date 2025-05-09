@@ -33,8 +33,6 @@ const items = [
         creatorName: "Kihong Ku",
         color: "#ffffff",
         categoryTags: ["Resist", "Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Park in a Truck",
@@ -42,8 +40,6 @@ const items = [
         creatorName: "Kim Douglas",
         color: "#ffffff",
         categoryTags: ["Adapt", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Development of a Vaccine Against Onchocerca Volvulus, the Causative Agent of River Blindness",
@@ -51,8 +47,6 @@ const items = [
         creatorName: "David Abraham",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Investigating Novel Dye Sources to Reduce Synthetic Toxic Effluents for Improved Human and Environmental Health",
@@ -60,8 +54,6 @@ const items = [
         creatorName: "Becky Flax",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Sensory Seating Project",
@@ -69,8 +61,6 @@ const items = [
         creatorName: "Rob Melville",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "URBANO.IO",
@@ -78,8 +68,6 @@ const items = [
         creatorName: "Yang Yang",
         color: "#ffffff",
         categoryTags: ["Resist", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Development of Humanized Mouse Models for Onchocerca Volvulus",
@@ -87,15 +75,11 @@ const items = [
         creatorName: "David Abraham",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Glass Bridge",
         projectDescription: "At over 10 meters long and composed of 144 hollow glass units engineered for both efficiency and strength, Glass Bridge envisions a more sustainable future. The project challenges conventional design by demonstrating how meticulously crafted construction materials can serve as primary structural systems while minimizing material usage and maximizing performance and recyclability. Although glass is not traditionally seen as a sustainable material, the bridge’s hollow, lightweight units, made from recycled glass, require significantly less energy to manufacture and transport compared to their concrete and steel counterparts. The design showcases how internal force flows are contained within a 1.6 cm cross-section, creating an ultra-transparent yet structurally robust architectural solution. By reducing mass, the project lowers embodied carbon in the built environment, paving the way for cleaner, more efficient construction methods. Beyond its structural and material innovations, Glass Bridge aims to inspire architects, engineers, and researchers to rethink conventional detailing methods and explore thin-sheet-based construction for lightweight, high-performance building and infrastructure components. It stands as a testament to the potential of advanced material strategies in shaping a more sustainable built environment.",
-        creatorName: "<br><strong>Design and research:</strong><br><strong>Principal Investigators:</strong> Dr. Masoud Akbarzadeh (University of Pennsylvania), Dr. Joseph Robert Yost (Villanova University), Dr. Damon Bolhassani (City University of New York), Prof. Dr.-Ing. Jens Schneider (TU Wein, Glass Competence Center, TU Darmstadt)<br><strong>Advising Collaborator:</strong> Richard Farley (University of Pennsylvania)<br><strong>Project Lead Designer:</strong> Dr. Masoud Akbarzadeh<br><strong>Structural Design:</strong> Dr. Masoud Akbarzadeh, Dr. Yao Lu, Yiliang Shao, Tian Ouyang<br><strong>Computational Design Lead:</strong> Dr. Yao Lu<br><strong>Steel Support Detailing and Formwork Design:</strong> Boyu Xiao, Michael Ting, Pouria Vakhshouri<br><strong>Structural Engineering:</strong> Dr. Damon Bolhassani, Dr. Paria Yavartanoo<br><strong>Structural Load Testing and Material Verification:</strong> Dr. Joseph Robert Yost, Jorge Huisa Chacon, and Mathew Cregan<br><strong>Glass Engineering:</strong> Prof. Dr.-Ing. Jens Schneider, Philipp Amir Chhadeh<br><strong>Early-Stage Research Team:</strong> Dr. Andrei Nejur, Tian Ouyang, Dr. Mostafa Akbari, Zhenhao Zhou, Cory Byrnes, Dr. Ulrich Knaack, Chris Borg Costanzi<br><strong>Materials and Construction:</strong><br><strong>Acrylic Milling Services:</strong> Werk5 GmbH<br><strong>Acrylic Materials:</strong> Polyvantis GmbH<br><strong>Hollow Glass Unit Construction:</strong> Glasbau Pritz GmbH<br><strong>Glass Milling Services:</strong> Thiele Glas Werk GmbH<br><strong>Low Carbon Glass:</strong> ORAÉ® by Saint-Gobain Glass<br><strong>Acrylic Extrusion:</strong> Hubei Chusui plastic extrusion mold factory<br><strong>SentryGlas:</strong> Kuraray<br><strong>Plywood Machining:</strong> Timbur<br><strong>Steel Construction:</strong> Kuan-Ting Lai<br><strong>Fabrication Consultant:</strong> Ali Seyedahmadian<br><strong>Purchasing/Logistic Coordination:</strong> Jennifer Thuman<br><strong>Business Administrator:</strong> Nadine Beauhanois<br><strong>Installation Team:</strong> Masoud Akbarzadeh, Boyu Xiao, Michael Ting, Yao Lu, Amir Motavaselian, Yefan Zhi, Teng Teng, Joseph Yost, Philipp Amir Chhadeh, Golnaz Moharrer, Esmaeel Negarestan, Hengameh Fazeli and Alireza Fazeli",        categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: ["images/2_reflection.jpg"],
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+        creatorName: "<br><strong>Design and research:</strong><br><strong>Principal Investigators:</strong> Dr. Masoud Akbarzadeh (University of Pennsylvania), Dr. Joseph Robert Yost (Villanova University), Dr. Damon Bolhassani (City University of New York), Prof. Dr.-Ing. Jens Schneider (TU Wein, Glass Competence Center, TU Darmstadt)<br><strong>Advising Collaborator:</strong> Richard Farley (University of Pennsylvania)<br><strong>Project Lead Designer:</strong> Dr. Masoud Akbarzadeh<br><strong>Structural Design:</strong> Dr. Masoud Akbarzadeh, Dr. Yao Lu, Yiliang Shao, Tian Ouyang<br><strong>Computational Design Lead:</strong> Dr. Yao Lu<br><strong>Steel Support Detailing and Formwork Design:</strong> Boyu Xiao, Michael Ting, Pouria Vakhshouri<br><strong>Structural Engineering:</strong> Dr. Damon Bolhassani, Dr. Paria Yavartanoo<br><strong>Structural Load Testing and Material Verification:</strong> Dr. Joseph Robert Yost, Jorge Huisa Chacon, and Mathew Cregan<br><strong>Glass Engineering:</strong> Prof. Dr.-Ing. Jens Schneider, Philipp Amir Chhadeh<br><strong>Early-Stage Research Team:</strong> Dr. Andrei Nejur, Tian Ouyang, Dr. Mostafa Akbari, Zhenhao Zhou, Cory Byrnes, Dr. Ulrich Knaack, Chris Borg Costanzi<br><strong>Materials and Construction:</strong><br><strong>Acrylic Milling Services:</strong> Werk5 GmbH<br><strong>Acrylic Materials:</strong> Polyvantis GmbH<br><strong>Hollow Glass Unit Construction:</strong> Glasbau Pritz GmbH<br><strong>Glass Milling Services:</strong> Thiele Glas Werk GmbH<br><strong>Low Carbon Glass:</strong> ORAÉ® by Saint-Gobain Glass<br><strong>Acrylic Extrusion:</strong> Hubei Chusui plastic extrusion mold factory<br><strong>SentryGlas:</strong> Kuraray<br><strong>Plywood Machining:</strong> Timbur<br><strong>Steel Construction:</strong> Kuan-Ting Lai<br><strong>Fabrication Consultant:</strong> Ali Seyedahmadian<br><strong>Purchasing/Logistic Coordination:</strong> Jennifer Thuman<br><strong>Business Administrator:</strong> Nadine Beauhanois<br><strong>Installation Team:</strong> Masoud Akbarzadeh, Boyu Xiao, Michael Ting, Yao Lu, Amir Motavaselian, Yefan Zhi, Teng Teng, Joseph Yost, Philipp Amir Chhadeh, Golnaz Moharrer, Esmaeel Negarestan, Hengameh Fazeli and Alireza Fazeli",        categoryTags: ["Innovate", "Adapt"], // Updateday
     },
     {
         projectTitle: "Xylazine Harm Reduction and Wound Care",
@@ -103,8 +87,6 @@ const items = [
         creatorName: "Maribeth Kradel-Weitzel",
         color: "#ffffff",
         categoryTags: ["Adapt", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Spinal Cord Injury Patient Resource",
@@ -112,8 +94,6 @@ const items = [
         creatorName: "Maribeth Kradel-Weitzel",
         color: "#ffffff",
         categoryTags: ["Adapt", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Textile Facades-Explorations in controling solar gain with textiles",
@@ -121,8 +101,6 @@ const items = [
         creatorName: "Mojgan Sadat Akhavani, Darya Afshar, Rajshree K-C",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "DOVE Device",
@@ -130,8 +108,6 @@ const items = [
         creatorName: "David Gordon (DOVE Device Team)",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The Side Yard House; A New Typology for Affordable, Sustainable, Modular Mass Housing",
@@ -139,8 +115,6 @@ const items = [
         creatorName: "Craig Griffen",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The NuroSleeve Upper Extremity Assistive System",
@@ -148,8 +122,6 @@ const items = [
         creatorName: "Mijail Serruya",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Mechanism and Therapeutic Development for Hyperinfection by Strongyloides Stercoralis",
@@ -157,8 +129,6 @@ const items = [
         creatorName: "David Abraham",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Vertical + Horizontal: Redefining High-Density City via Generative Urban Design",
@@ -166,17 +136,13 @@ const items = [
         creatorName: "Peng Du",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Liquid Horizons",
-        projectDescription: "The Honickman Center Immersive Art Project is a collaborative initiative between Jefferson Health, Jefferson University’s Kanbar College of Design, Engineering and Commerce, and the Sidney Kimmel Medical College, designed to enhance patient experiences through immersive art in nine waiting rooms serving diverse patient populations. \n\nThe featured installations, titled “Liquid Horizons,” are original watercolor artworks created by Lyn Godley, director of the Jefferson Center of Immersive Arts for Health (JCIAH). These paintings have been digitally transformed with subtle, animated projection overlays, creating slowly shifting, rhythmic visual environments aimed at reducing stress and fostering calm for patients, visitors, and caregivers in clinical settings. \n\nThe project exemplifies interdisciplinary collaboration. Students from Jefferson’s design programs participated, from research to installation and projection mapping, alongside local tech collaborators and Jefferson’s Center for Excellence in Surface Imaging (CESI), which produced large-scale, durable wall prints suitable for healthcare environments. \n\nBuilding on JCIAH’s previous research demonstrating the emotional benefits of dynamic light art, this installation will be the focus of new studies beginning in early 2025. These studies, conducted with Jefferson Health and Sidney Kimmel Medical College, will measure how immersive, artist-designed environments can improve mood, reduce anxiety, and elevate the overall healthcare experience — reinforcing the powerful role of art, design, and science in shaping patient-centered, healing environments.",
+        projectDescription: "The Honickman Center Immersive Art Project is a collaborative initiative between Jefferson Health, Jefferson University’s Kanbar College of Design, Engineering and Commerce, and the Sidney Kimmel Medical College, designed to enhance patient experiences through immersive art in nine waiting rooms serving diverse patient populations. <br><br>The featured installations, titled “Liquid Horizons,” are original watercolor artworks created by Lyn Godley, director of the Jefferson Center of Immersive Arts for Health (JCIAH). These paintings have been digitally transformed with subtle, animated projection overlays, creating slowly shifting, rhythmic visual environments aimed at reducing stress and fostering calm for patients, visitors, and caregivers in clinical settings. <br><br>The project exemplifies interdisciplinary collaboration. Students from Jefferson’s design programs participated, from research to installation and projection mapping, alongside local tech collaborators and Jefferson’s Center for Excellence in Surface Imaging (CESI), which produced large-scale, durable wall prints suitable for healthcare environments. <br><br>Building on JCIAH’s previous research demonstrating the emotional benefits of dynamic light art, this installation will be the focus of new studies beginning in early 2025. These studies, conducted with Jefferson Health and Sidney Kimmel Medical College, will measure how immersive, artist-designed environments can improve mood, reduce anxiety, and elevate the overall healthcare experience — reinforcing the powerful role of art, design, and science in shaping patient-centered, healing environments.",
         creatorName: "Lyn Godley",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "London Lines",
@@ -184,8 +150,6 @@ const items = [
         creatorName: "Reagan Cope",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Trinity Towers",
@@ -193,8 +157,6 @@ const items = [
         creatorName: "Steven Graziano",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Harbor Haven Research Campus",
@@ -202,17 +164,13 @@ const items = [
         creatorName: "Mike Capuano",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Zero Energy House Prototype: Sustainability & Health",
-        projectDescription: "The  Zero Energy House Prototype is a groundbreaking initiative demonstrating sustainable building materials, solar energy, and high-efficiency home design. Serving as a living lab, the project facilitates performance evaluation, material testing, and continued research, while also educating the community about clean energy and sustainable living. \nAt its core, the prototype seeks to achieve zero net energy and a zero-carbon footprint, ensuring not only environmental sustainability but also health benefits for its occupants. By integrating active and passive design strategies, the home enhances air quality, thermal comfort, and natural daylighting, factors directly linked to mental and physical well-being. A cross-disciplinary design team has balanced affordability, social sustainability, and technological innovation to create an adaptable, high-performance home. \nInspired by Tennessee’s climatic design history, the project follows a four-part hierarchy: \n1. Basic Building Design – optimizing siting, orientation, and spatial planning. \n2. Passive Strategies – utilizing daylighting, natural ventilation, and heat management. \n3. High-Performance Systems – integrating efficient HVAC, smart sensors, and dynamic facades. \n4. Green Power Solutions – incorporating decentralized solar, wind, and grid-tied systems. \nBy prioritizing sustainable architecture and human-centered design, the UT Zero Prototype fosters healthier indoor environments, reducing stress and improving overall quality of life.",
+        projectDescription: "The  Zero Energy House Prototype is a groundbreaking initiative demonstrating sustainable building materials, solar energy, and high-efficiency home design. Serving as a living lab, the project facilitates performance evaluation, material testing, and continued research, while also educating the community about clean energy and sustainable living. <br>At its core, the prototype seeks to achieve zero net energy and a zero-carbon footprint, ensuring not only environmental sustainability but also health benefits for its occupants. By integrating active and passive design strategies, the home enhances air quality, thermal comfort, and natural daylighting, factors directly linked to mental and physical well-being. A cross-disciplinary design team has balanced affordability, social sustainability, and technological innovation to create an adaptable, high-performance home. <br>Inspired by Tennessee’s climatic design history, the project follows a four-part hierarchy: <br>1. Basic Building Design – optimizing siting, orientation, and spatial planning. <br>2. Passive Strategies – utilizing daylighting, natural ventilation, and heat management. <br>3. High-Performance Systems – integrating efficient HVAC, smart sensors, and dynamic facades. <br>4. Green Power Solutions – incorporating decentralized solar, wind, and grid-tied systems. <br>By prioritizing sustainable architecture and human-centered design, the UT Zero Prototype fosters healthier indoor environments, reducing stress and improving overall quality of life.",
         creatorName: "Edgar Stach, James Rose, Amy Howard",
         color: "#ffffff",
         categoryTags: ["Resist", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Shadows at Cliveden",
@@ -220,8 +178,6 @@ const items = [
         creatorName: "Andrew Hart",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Reflections of North Philadelphia: Expressions of Community Identity and Community Health in the Sharswood Neighborhood",
@@ -229,8 +185,6 @@ const items = [
         creatorName: "Andrew Hart, Grace Ong Yan, Michael Spain",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Soft Shells",
@@ -238,8 +192,6 @@ const items = [
         creatorName: "Yao Lu, Christopher Pastore, Harnoor Singh, Aanchal Ram Kanojia, Meghan Kelly, Sangram Ramesh Shinde",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Bird Song",
@@ -247,17 +199,13 @@ const items = [
         creatorName: "Renee Walker",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The Nam June Paik Museum",
-        projectDescription: "The conceptual approach for the NJP Museum emerges from the very essence of Paik’s artistic philosophy—the fusion of technology, art, and human perception. At its core, the design draws from circuitry, mirroring both the form and function of microchips while paying homage to Paik’s experimental manipulation of video signals to create abstract electronic imagery. \n\nThis exploration extends into mental health and human experience by recognizing the profound psychological effects of space, light, and digital interaction. Inspired by Paik’s dynamic approach to media, the building integrates ‘Digital Surface’—a contemporary architectural notion that challenges traditional boundaries between structure and ornament. By blurring distinctions between inside and outside, the museum creates an immersive, fluid environment, stimulating curiosity, engagement, and contemplation. This fusion of art and architecture is not just aesthetic; it fosters sensory exploration, emotional resonance, and a deep connection between space and well-being.",
+        projectDescription: "The conceptual approach for the NJP Museum emerges from the very essence of Paik’s artistic philosophy—the fusion of technology, art, and human perception. At its core, the design draws from circuitry, mirroring both the form and function of microchips while paying homage to Paik’s experimental manipulation of video signals to create abstract electronic imagery. <br><br>This exploration extends into mental health and human experience by recognizing the profound psychological effects of space, light, and digital interaction. Inspired by Paik’s dynamic approach to media, the building integrates ‘Digital Surface’—a contemporary architectural notion that challenges traditional boundaries between structure and ornament. By blurring distinctions between inside and outside, the museum creates an immersive, fluid environment, stimulating curiosity, engagement, and contemplation. This fusion of art and architecture is not just aesthetic; it fosters sensory exploration, emotional resonance, and a deep connection between space and well-being.",
         creatorName: "Edgar Stach, Chang Yang, Jason Brown",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Nucleus Pulposus",
@@ -265,8 +213,6 @@ const items = [
         creatorName: "Kimheak Sao",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "An Immersive Deep Dive into Calm",
@@ -274,8 +220,6 @@ const items = [
         creatorName: "Lyn Godley",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Philadelphia Family Court Sensory Space Redesign - Jefferson Center for Autism and Neurodiversity",
@@ -283,8 +227,6 @@ const items = [
         creatorName: "Sabra Townsend",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Waiting Room — Immersive Art for Well-being",
@@ -292,8 +234,6 @@ const items = [
         creatorName: "Lyn Godley, Alyson Denny, Jessica Beckwith",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Little Brain of the Heart",
@@ -301,8 +241,6 @@ const items = [
         creatorName: "Shaina Robbins",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "CBD Media Tower",
@@ -310,8 +248,6 @@ const items = [
         creatorName: "Edgar Stach, Wolf Loebel, Ignacio Alonso, Yang Liu, Yuri Melnichenko",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The Ubiquitous Nature of Microplastic Fibers",
@@ -319,8 +255,6 @@ const items = [
         creatorName: "Jeffrey Ashley",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The Galaxies in Our Bones",
@@ -328,8 +262,6 @@ const items = [
         creatorName: "Alexandra Ciuciu",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Living Light House",
@@ -337,8 +269,6 @@ const items = [
         creatorName: "Edgar Stach, Barbara Klinkhammer, James Rose, Leon Tolbert, Deborah Shmerler",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "The Art of Geology",
@@ -346,8 +276,6 @@ const items = [
         creatorName: "Katelyn Hayat",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "A Tapestry of Life",
@@ -355,8 +283,6 @@ const items = [
         creatorName: "Severino Alfonso",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Motivity: Getting Patients Moving",
@@ -364,8 +290,6 @@ const items = [
         creatorName: "David Gordon (Motivity Team)",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Temperature Quilt",
@@ -373,8 +297,6 @@ const items = [
         creatorName: "Renee Walker",
         color: "#ffffff",
         categoryTags: ["Resist", "Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Herbs Under the Microscope",
@@ -382,8 +304,6 @@ const items = [
         creatorName: "Grace McCaughey",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "MRI of Okra",
@@ -391,8 +311,6 @@ const items = [
         creatorName: "William Morrison",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Double Knit",
@@ -400,8 +318,6 @@ const items = [
         creatorName: "Chris Pastore",
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Heart of Resilience",
@@ -409,8 +325,6 @@ const items = [
         creatorName: "Ashley Zucker",
         color: "#ffffff",
         categoryTags: ["Resist", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Optical Wiring",
@@ -418,8 +332,6 @@ const items = [
         creatorName: "Michaeil Aimino",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Echoes",
@@ -427,8 +339,6 @@ const items = [
         creatorName: "Loukia Tsafoulia, Severino Alfonso",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Synesthesia",
@@ -436,8 +346,6 @@ const items = [
         creatorName: "Loukia Tsafoulia, Severino Alfonso",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Celestial Memories: Hippocampal Neurons in the Cosmos",
@@ -445,8 +353,6 @@ const items = [
         creatorName: "Bridget Boyle",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Astrocyte Blossom",
@@ -454,17 +360,13 @@ const items = [
         creatorName: "Gabriela Daszewska-Smith",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Flying Colors",
         projectDescription: "The fruit fly brain, though tiny, contains over 100,000 neurons which communicate with each other at 50 million synaptic connections. The process by which these synapses form is both extremely complex and also remarkably similar to the development of our own brains. This depth-coded image of the fly brain highlights the 3D structure of the antennal lobes, which the fly uses to sense its environment. By studying how connections form in these structures, we can better understand how our own brains develop.",
         creatorName: "Alison Depew",
         color: "#ffffff",
-        categoryTags: ["Resist", "Innovate", "Adapt", "Sustain", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+        categoryTags: ["Innovate", "Access"], // Updated
     },
     {
         projectTitle: "Prismatic Protrusions: Sprouting Color With Color",
@@ -472,8 +374,6 @@ const items = [
         creatorName: "Siddharth Karthikeyan",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Neon Lights of a Fly Child",
@@ -481,8 +381,6 @@ const items = [
         creatorName: "Benjamin Seitz",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Can Vernacular Architecture be High Performance",
@@ -490,8 +388,6 @@ const items = [
         creatorName: "Khalid Mirza<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Parking as a Source of Resilience",
@@ -499,8 +395,6 @@ const items = [
         creatorName: "Vidit Soni<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Net Zero Chemotherapy Center",
@@ -508,8 +402,6 @@ const items = [
         creatorName: "Sarah Rodovalho<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "AeroResort Net Zero Project",
@@ -517,8 +409,6 @@ const items = [
         creatorName: "Stephanie Jensen-Schmidt<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "Net Zero Integrative Wellness Center",
@@ -526,8 +416,6 @@ const items = [
         creatorName: "Dhwani Gala<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     },
     {
         projectTitle: "App to Explore Nature of Personal Heritage",
@@ -535,8 +423,6 @@ const items = [
         creatorName: "Carrie Collins<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Innovate", "Sustain"], // Updated
-        imagePrimary: "images/2_reflection.jpg",
-        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     }
     // {
     //     projectTitle: "Unkown",
@@ -544,8 +430,7 @@ const items = [
     //     creatorName: "Unkown",
     //     color: "#ffffff",
     //     categoryTags: ["Resist", "Innovate", "Adapt", "Sustain", "Access"], // Updated
-    //     imagePrimary: "images/2_reflection.jpg",
-    //     imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    //  ray
     // },
 
 ];
