@@ -63,6 +63,13 @@ const items = [
         categoryTags: ["Adapt", "Access"], // Updated
     },
     {
+        projectTitle: "Flying Colors",
+        projectDescription: "The fruit fly brain, though tiny, contains over 100,000 neurons which communicate with each other at 50 million synaptic connections. The process by which these synapses form is both extremely complex and also remarkably similar to the development of our own brains. This depth-coded image of the fly brain highlights the 3D structure of the antennal lobes, which the fly uses to sense its environment. By studying how connections form in these structures, we can better understand how our own brains develop.",
+        creatorName: "Alison Depew",
+        color: "#ffffff",
+        categoryTags: ["Innovate", "Access"], // Updated
+    },
+    {
         projectTitle: "URBANO.IO",
         projectDescription: "URBANO.IO delivers location and mobility insights, empowering architects and planners to create better cities. It streamlines model building, data collection, and simulation, enabling the evaluation of mobility performance across design scenarios. By combining data and simulation, URBANO.IO enhances early-stage design optimization, providing quantitative insights for smarter decision-making. This case study focuses on the redevelopment of the North Philadelphia waterfront, an area currently separated from the city by an elevated expressway. The City of Philadelphia aims to revitalize the site into a vibrant destination, using data-driven mobility assessments to guide investments and explore new mobility solutions, such as microtransit. A parametric model in Rhino & Grasshopper generates different master plan options. URBANO.IO evaluates each design based on mobility and accessibility metrics, providing insights into walkability, transit access, and network integration. Using multi-objective analysis tools like Pareto Front and Parallel Coordinates Plot, the project identifies optimal solutions for an accessible, connected waterfront.",
         creatorName: "Yang Yang",
@@ -87,6 +94,13 @@ const items = [
         creatorName: "Maribeth Kradel-Weitzel",
         color: "#ffffff",
         categoryTags: ["Adapt", "Sustain"], // Updated
+    },
+    {
+        projectTitle: "Net Zero Chemotherapy Center",
+        projectDescription: "This student thesis project explored the question: Can the architecture and site foster emotional and psychological wellbeing while reducing energy consumption and associated emissions? Healthcare centers are not just consuming large amounts of energy and emitting significant GHG emissions. They are also failing to support the comprehensive wellbeing of the patients, their communities, and staff members. At the national level, a cancer diagnosis is expected to hit 33% of Americans. At the city scale, Philadelphia had over 40,000 cancer cases between 2015-19 and is ranked fifth in new cases of cancer in 2022. Rising cases, poor quality care, and fewer treatment options worsen this reality. The architectural typology of healthcare facilities evolved from focusing on daylight and natural ventilation to a machine-like typology that spatially and visually separates patients from the environment and maximizes patient care efficiency over their comprehensive wellbeing while ignoring the wellbeing of caregivers and staff.<br><br>Through the development of sustainable design strategies allied to biophilia, a building and landscape is proposed to provide a holistic treatment environment for patients, their families, staff, and the community as a whole. The solution is a community-based chemotherapy infusion center that supports the local hospital by complimenting hospital treatment gaps through biophilia, integration with nature, psychological support, physical therapy, beauty aid, and community awareness. It was discovered that dividing the program into two buildings permitted improved energy efficiency, with the staff building reaching net-positive energy (after PV) and the patient building falling short of net-zero (EUI = 4 KBTU/sf/yr after PV).",
+        creatorName: "Sarah Rodovalho<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
     },
     {
         projectTitle: "Spinal Cord Injury Patient Resource",
@@ -117,9 +131,23 @@ const items = [
         categoryTags: ["Resist", "Adapt"], // Updated
     },
     {
+        projectTitle: "Living Light House",
+        projectDescription: "The LIVING LIGHT home is designed as a retreat from the visual and physical clutter of the Information Age, seamlessly integrating technology into a thoughtfully composed architectural form. Inspired by the cantilever barns of Southern Appalachia, its floor plan arranges support spaces into two compact programmatic cubes, framing a central open living space. The most valuable elements of the design are volume and light, creating a spacious yet efficient living environment. Our objective is to develop a modular house using prefabricated components that enhance energy efficiency and sustainability in both new and existing structures. The living Light home was initiated as a project to explore the integration of advanced technology, energy-efficient construction, and environmental sustainability. By engaging academia, local businesses, builders, industry leaders, government stakeholders, and the public, we aim to share knowledge and inspire innovation. To achieve these goals, the design employs four key strategies: Integrated Design Approach, Sustainable Prefab Strategies, Intelligent Building Envelope, and Global Ideas—Local Values—Teaching Sustainability.Guided by principles of functionality, integration, and robustness, the design prioritizes appropriate technology, leveraging common systems when sufficient and employing innovative solutions only when necessary. These principles ensure a high-performing, energy-efficient home.",
+        creatorName: "Edgar Stach, Barbara Klinkhammer, James Rose, Leon Tolbert, Deborah Shmerler",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
+    },
+    {
         projectTitle: "The NuroSleeve Upper Extremity Assistive System",
         projectDescription: "The NuroSleeve is a wearable medical device that restores hand movement in people with paralysis. It allows for patient-controlled stimulation and motorized assistance to open and close the hand, and use the arm, allowing functional use of the upper extremity. Restores upper extremity motor function in children and adults with paralysis. Through rounds of iterative testing, the NuroSleeve has been designed with direct patient feedback— resulting in a device created to match patient needs, desires, and expectations. The NuroSleeve features: (a) streamlined device design and creation; (b) fully customizable from size/shape to implementation and use; (c) provide patients with an enhanced level of independence including donning, use, and doffing; and (d), ability for medical team to monitor use and benefit.",
         creatorName: "Mijail Serruya",
+        color: "#ffffff",
+        categoryTags: ["Innovate", "Access"], // Updated
+    },
+    {
+        projectTitle: "Optical Wiring",
+        projectDescription: "Within the brain, neurons communicate with each other through complex structures called synapses. The formation of numerous synapses between multiple neurons to achieve a specific function leads to the creation of neuronal circuits. This image of a fly eye shows the synapses (blue or red) and neuronal membranes (green) of multiple types of visual neurons. These neurons connect with other neurons of the visual system to form a circuit that relays visual information from the eye into the processing centers of the brain. Visualizing circuits helps us better understand how the nervous system develops and functions.",
+        creatorName: "Michaeil Aimino",
         color: "#ffffff",
         categoryTags: ["Innovate", "Access"], // Updated
     },
@@ -136,6 +164,13 @@ const items = [
         creatorName: "Peng Du",
         color: "#ffffff",
         categoryTags: ["Innovate", "Adapt"], // Updated
+    },
+        {
+        projectTitle: "Parking as a Source of Resilience",
+        projectDescription: "Over time, parking has expanded in the city and the suburbs. Each registered vehicle in the United States has 8 parking spots on average. In certain cities, the parking spots cover 68% of the land, making it the predominant landscape, promoting cars, and destroying the public realm. These parking lots significantly impact the environment by amplifying the Urban Heat Island Effect and preventing groundwater recharge. It also plays an essential role in reducing the health and well-being of an individual and making housing unaffordable.<br><br>The City of San Antonio lacks green spaces in the downtown area. This issue and the cities affordable housing crises could be potentially solved with the help of the excessive parking lots in the city. This thesis proposes a holistic design solution that is flexible and allows the building to adapt in the short term and long term. It also focuses on enhancing health and well-being and making the community stronger. Although the project would always be continuously evolving throughout its life, it would still save materials and embodied energy. The proposed design is energy efficient with an Energy Use Intensity (EUI) of 50 kBTU/sf/yr, it can achieve 93% water improvement when compared to the baseline standards and has well lite habitable areas with 300 lux of daylight. It also encourages community engagement and acts as a first step for the city-wide transformation. Such an approach would help create a more walkable and pedestrian-friendly environment for the citizens of San Antonio while connecting different parts of the cities.",
+        creatorName: "Vidit Soni<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Resist", "Adapt"], // Updated
     },
     {
         projectTitle: "Liquid Horizons",
@@ -164,6 +199,13 @@ const items = [
         creatorName: "Mike Capuano",
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
+    },
+    {
+        projectTitle: "App to Explore Nature of Personal Heritage",
+        projectDescription: "The current environmental crisis has an impeding point of no return date. Collectively, humans have the technology to solve it, but seemingly, lack the will. Indigenous leaders from around the world feel the reason so many people are unable to process the severity of climate change is because their relationship to nature is fractured. These leaders are urging all people to reconnect with their ancestral native lands and earth-based cultures in order to understand how to prioritize healing the earth from this crisis. By unlocking these forgotten histories and stories there is possibility of unlocking the ambition and the understanding to take on these issues. Each day, on average, people use digital screens 20 times more than they interact with nature. With this number rising each year, the human brain is simultaneously changing. What it primarily spends its time doing is what it tends to prioritize. In order to get back to nature, meeting people where they are spending the most time is crucial. A digital platform designed to connect humans with nature through their indigenous heritage can inspire nonvirtual, or real, connections with the Earth and encourage positive behavior change towards mitigating the environmental crisis.",
+        creatorName: "Carrie Collins<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Innovate", "Sustain"], // Updated
     },
     {
         projectTitle: "Zero Energy House Prototype: Sustainability & Health",
@@ -204,6 +246,13 @@ const items = [
         projectTitle: "The Nam June Paik Museum",
         projectDescription: "The conceptual approach for the NJP Museum emerges from the very essence of Paik’s artistic philosophy—the fusion of technology, art, and human perception. At its core, the design draws from circuitry, mirroring both the form and function of microchips while paying homage to Paik’s experimental manipulation of video signals to create abstract electronic imagery. <br><br>This exploration extends into mental health and human experience by recognizing the profound psychological effects of space, light, and digital interaction. Inspired by Paik’s dynamic approach to media, the building integrates ‘Digital Surface’—a contemporary architectural notion that challenges traditional boundaries between structure and ornament. By blurring distinctions between inside and outside, the museum creates an immersive, fluid environment, stimulating curiosity, engagement, and contemplation. This fusion of art and architecture is not just aesthetic; it fosters sensory exploration, emotional resonance, and a deep connection between space and well-being.",
         creatorName: "Edgar Stach, Chang Yang, Jason Brown",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
+    },
+    {
+        projectTitle: "Net Zero Integrative Wellness Center",
+        projectDescription: "Rural areas often struggle to maintain access to quality healthcare services. The majority of the population and resources are concentrated in the cities, and the rural areas suffer and face the challenges due to high levels of poverty, sparse populations, lack of resources, and lack of education regardless of beautiful surroundings and strong communities. With the growing demand of climate emergency, it is critical to design resilient and sustainable buildings that are energy efficient by switching to adaptive thermal comfort design which can indirectly result in greater energy savings while providing more comfortable spaces.<br><br>The project aims to provide a holistic and patient-centered approach to quality care that will promote healthy behaviors and will focus on the overall health and wellness of the patients by alternative treatment methods. By applying sustainable design strategies, the project will reduce the carbon emissions, foster social equity and community growth, connect people with the natural environment, and support local ecological systems. It will also create an awareness to design sustainable healthcare centers that maintain and balance the environment.<br><br>To demonstrate energy savings, the project reduced the Energy Use Intensity from a baseline of 66 kBTU/sf/year to 45 kBTU/sf/year by using different passive design strategies, access to natural daylight, a well-insulated and tight thermal envelope, and using efficient HVAC systems. Furthermore, using natural ventilation in summer reduced the cooling loads of 6 kBTU/sf/year which resulted in greater energy savings, and helped to achieve Net-Zero energy by using renewable energy sources.",
+        creatorName: "Dhwani Gala<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
         categoryTags: ["Adapt", "Access"], // Updated
     },
@@ -263,12 +312,12 @@ const items = [
         color: "#ffffff",
         categoryTags: ["Innovate"], // Updated
     },
-    {
-        projectTitle: "Living Light House",
-        projectDescription: "The LIVING LIGHT home is designed as a retreat from the visual and physical clutter of the Information Age, seamlessly integrating technology into a thoughtfully composed architectural form. Inspired by the cantilever barns of Southern Appalachia, its floor plan arranges support spaces into two compact programmatic cubes, framing a central open living space. The most valuable elements of the design are volume and light, creating a spacious yet efficient living environment. Our objective is to develop a modular house using prefabricated components that enhance energy efficiency and sustainability in both new and existing structures. The living Light home was initiated as a project to explore the integration of advanced technology, energy-efficient construction, and environmental sustainability. By engaging academia, local businesses, builders, industry leaders, government stakeholders, and the public, we aim to share knowledge and inspire innovation. To achieve these goals, the design employs four key strategies: Integrated Design Approach, Sustainable Prefab Strategies, Intelligent Building Envelope, and Global Ideas—Local Values—Teaching Sustainability.Guided by principles of functionality, integration, and robustness, the design prioritizes appropriate technology, leveraging common systems when sufficient and employing innovative solutions only when necessary. These principles ensure a high-performing, energy-efficient home.",
-        creatorName: "Edgar Stach, Barbara Klinkhammer, James Rose, Leon Tolbert, Deborah Shmerler",
+        {
+        projectTitle: "AeroResort Net Zero Project",
+        projectDescription: "Student work explored the question if the hospitality sector could be net-zero in their design of a net-zero eco-resort in Philadelphia. The students did over 40 separate building simulations, along with rainwater harvesting and pv calculations. Resilience was added to the projects by the design of wetlands to protect the flood-prone neighborhood and by providing at least 3 days of backup water and energy supply. The student work also connected the site with the nearby trails of the John Heinz Wildlife Refuge and the Philadelphia Airport.",
+        creatorName: "Stephanie Jensen-Schmidt<br>Thomas Jefferson University Masters of Sustainable Design",
         color: "#ffffff",
-        categoryTags: ["Adapt", "Access"], // Updated
+        categoryTags: ["Resist", "Adapt"], // Updated
     },
     {
         projectTitle: "The Art of Geology",
@@ -327,13 +376,6 @@ const items = [
         categoryTags: ["Resist", "Access"], // Updated
     },
     {
-        projectTitle: "Optical Wiring",
-        projectDescription: "Within the brain, neurons communicate with each other through complex structures called synapses. The formation of numerous synapses between multiple neurons to achieve a specific function leads to the creation of neuronal circuits. This image of a fly eye shows the synapses (blue or red) and neuronal membranes (green) of multiple types of visual neurons. These neurons connect with other neurons of the visual system to form a circuit that relays visual information from the eye into the processing centers of the brain. Visualizing circuits helps us better understand how the nervous system develops and functions.",
-        creatorName: "Michaeil Aimino",
-        color: "#ffffff",
-        categoryTags: ["Innovate", "Access"], // Updated
-    },
-    {
         projectTitle: "Echoes",
         projectDescription: "Echoes is an immersive environment that aims to raise awareness and acceptance of neurodivergent spatial experiences, creating a meaningful connection between art, technology, and human perception. Autistic individuals are significantly impacted by sensory input, making their physical environments critical for their ability to engage with the world around them – spatial access remains consequential to agency, empowerment, and self-possession. The concept of disability is constructed not just at the site of the body but also in multiscalar architectural operations, in the spaces that mediate between us and our desires.  Expressions such as rocking, vocalizing, and fidgeting carry a stigma, yet these are ways of personal existence, thinking, and creating to be acknowledged and celebrated rather than sympathized with. Echoes invites us to use our experiences and bodies to empathize with the emotional experiences of others.",
         creatorName: "Loukia Tsafoulia, Severino Alfonso",
@@ -362,13 +404,6 @@ const items = [
         categoryTags: ["Innovate", "Access"], // Updated
     },
     {
-        projectTitle: "Flying Colors",
-        projectDescription: "The fruit fly brain, though tiny, contains over 100,000 neurons which communicate with each other at 50 million synaptic connections. The process by which these synapses form is both extremely complex and also remarkably similar to the development of our own brains. This depth-coded image of the fly brain highlights the 3D structure of the antennal lobes, which the fly uses to sense its environment. By studying how connections form in these structures, we can better understand how our own brains develop.",
-        creatorName: "Alison Depew",
-        color: "#ffffff",
-        categoryTags: ["Innovate", "Access"], // Updated
-    },
-    {
         projectTitle: "Prismatic Protrusions: Sprouting Color With Color",
         projectDescription: "Neurons extend projections called axons, which can branch out to help the cell connect to multiple targets. Here, we recorded a living axon and color-coded each frame so all timepoints can be seen in a single image. The axon is shown sprouting new branches, which will go on to become mature branches and help the neuron create complex circuits. Remarkably, these new branches were grown using light! By using novel signaling proteins that promote growth following blue light exposure, we can control when and where these structures form along the axon and study how neurons grow during development.",
         creatorName: "Siddharth Karthikeyan",
@@ -389,48 +424,12 @@ const items = [
         color: "#ffffff",
         categoryTags: ["Resist", "Adapt"], // Updated
     },
-    {
-        projectTitle: "Parking as a Source of Resilience",
-        projectDescription: "Over time, parking has expanded in the city and the suburbs. Each registered vehicle in the United States has 8 parking spots on average. In certain cities, the parking spots cover 68% of the land, making it the predominant landscape, promoting cars, and destroying the public realm. These parking lots significantly impact the environment by amplifying the Urban Heat Island Effect and preventing groundwater recharge. It also plays an essential role in reducing the health and well-being of an individual and making housing unaffordable.<br><br>The City of San Antonio lacks green spaces in the downtown area. This issue and the cities affordable housing crises could be potentially solved with the help of the excessive parking lots in the city. This thesis proposes a holistic design solution that is flexible and allows the building to adapt in the short term and long term. It also focuses on enhancing health and well-being and making the community stronger. Although the project would always be continuously evolving throughout its life, it would still save materials and embodied energy. The proposed design is energy efficient with an Energy Use Intensity (EUI) of 50 kBTU/sf/yr, it can achieve 93% water improvement when compared to the baseline standards and has well lite habitable areas with 300 lux of daylight. It also encourages community engagement and acts as a first step for the city-wide transformation. Such an approach would help create a more walkable and pedestrian-friendly environment for the citizens of San Antonio while connecting different parts of the cities.",
-        creatorName: "Vidit Soni<br>Thomas Jefferson University Masters of Sustainable Design",
-        color: "#ffffff",
-        categoryTags: ["Resist", "Adapt"], // Updated
-    },
-    {
-        projectTitle: "Net Zero Chemotherapy Center",
-        projectDescription: "This student thesis project explored the question: Can the architecture and site foster emotional and psychological wellbeing while reducing energy consumption and associated emissions? Healthcare centers are not just consuming large amounts of energy and emitting significant GHG emissions. They are also failing to support the comprehensive wellbeing of the patients, their communities, and staff members. At the national level, a cancer diagnosis is expected to hit 33% of Americans. At the city scale, Philadelphia had over 40,000 cancer cases between 2015-19 and is ranked fifth in new cases of cancer in 2022. Rising cases, poor quality care, and fewer treatment options worsen this reality. The architectural typology of healthcare facilities evolved from focusing on daylight and natural ventilation to a machine-like typology that spatially and visually separates patients from the environment and maximizes patient care efficiency over their comprehensive wellbeing while ignoring the wellbeing of caregivers and staff.<br><br>Through the development of sustainable design strategies allied to biophilia, a building and landscape is proposed to provide a holistic treatment environment for patients, their families, staff, and the community as a whole. The solution is a community-based chemotherapy infusion center that supports the local hospital by complimenting hospital treatment gaps through biophilia, integration with nature, psychological support, physical therapy, beauty aid, and community awareness. It was discovered that dividing the program into two buildings permitted improved energy efficiency, with the staff building reaching net-positive energy (after PV) and the patient building falling short of net-zero (EUI = 4 KBTU/sf/yr after PV).",
-        creatorName: "Sarah Rodovalho<br>Thomas Jefferson University Masters of Sustainable Design",
-        color: "#ffffff",
-        categoryTags: ["Adapt", "Access"], // Updated
-    },
-    {
-        projectTitle: "AeroResort Net Zero Project",
-        projectDescription: "Student work explored the question if the hospitality sector could be net-zero in their design of a net-zero eco-resort in Philadelphia. The students did over 40 separate building simulations, along with rainwater harvesting and pv calculations. Resilience was added to the projects by the design of wetlands to protect the flood-prone neighborhood and by providing at least 3 days of backup water and energy supply. The student work also connected the site with the nearby trails of the John Heinz Wildlife Refuge and the Philadelphia Airport.",
-        creatorName: "Stephanie Jensen-Schmidt<br>Thomas Jefferson University Masters of Sustainable Design",
-        color: "#ffffff",
-        categoryTags: ["Resist", "Adapt"], // Updated
-    },
-    {
-        projectTitle: "Net Zero Integrative Wellness Center",
-        projectDescription: "Rural areas often struggle to maintain access to quality healthcare services. The majority of the population and resources are concentrated in the cities, and the rural areas suffer and face the challenges due to high levels of poverty, sparse populations, lack of resources, and lack of education regardless of beautiful surroundings and strong communities. With the growing demand of climate emergency, it is critical to design resilient and sustainable buildings that are energy efficient by switching to adaptive thermal comfort design which can indirectly result in greater energy savings while providing more comfortable spaces.<br><br>The project aims to provide a holistic and patient-centered approach to quality care that will promote healthy behaviors and will focus on the overall health and wellness of the patients by alternative treatment methods. By applying sustainable design strategies, the project will reduce the carbon emissions, foster social equity and community growth, connect people with the natural environment, and support local ecological systems. It will also create an awareness to design sustainable healthcare centers that maintain and balance the environment.<br><br>To demonstrate energy savings, the project reduced the Energy Use Intensity from a baseline of 66 kBTU/sf/year to 45 kBTU/sf/year by using different passive design strategies, access to natural daylight, a well-insulated and tight thermal envelope, and using efficient HVAC systems. Furthermore, using natural ventilation in summer reduced the cooling loads of 6 kBTU/sf/year which resulted in greater energy savings, and helped to achieve Net-Zero energy by using renewable energy sources.",
-        creatorName: "Dhwani Gala<br>Thomas Jefferson University Masters of Sustainable Design",
-        color: "#ffffff",
-        categoryTags: ["Adapt", "Access"], // Updated
-    },
-    {
-        projectTitle: "App to Explore Nature of Personal Heritage",
-        projectDescription: "The current environmental crisis has an impeding point of no return date. Collectively, humans have the technology to solve it, but seemingly, lack the will. Indigenous leaders from around the world feel the reason so many people are unable to process the severity of climate change is because their relationship to nature is fractured. These leaders are urging all people to reconnect with their ancestral native lands and earth-based cultures in order to understand how to prioritize healing the earth from this crisis. By unlocking these forgotten histories and stories there is possibility of unlocking the ambition and the understanding to take on these issues. Each day, on average, people use digital screens 20 times more than they interact with nature. With this number rising each year, the human brain is simultaneously changing. What it primarily spends its time doing is what it tends to prioritize. In order to get back to nature, meeting people where they are spending the most time is crucial. A digital platform designed to connect humans with nature through their indigenous heritage can inspire nonvirtual, or real, connections with the Earth and encourage positive behavior change towards mitigating the environmental crisis.",
-        creatorName: "Carrie Collins<br>Thomas Jefferson University Masters of Sustainable Design",
-        color: "#ffffff",
-        categoryTags: ["Innovate", "Sustain"], // Updated
-    }
     // {
     //     projectTitle: "Unkown",
     //     projectDescription: "",
     //     creatorName: "Unkown",
     //     color: "#ffffff",
     //     categoryTags: ["Resist", "Innovate", "Adapt", "Sustain", "Access"], // Updated
-    //  ray
     // },
 
 ];
