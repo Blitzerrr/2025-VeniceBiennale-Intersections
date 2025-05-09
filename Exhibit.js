@@ -21,6 +21,10 @@ function createGridItems() {
         const folderPath = `images/${encodeURIComponent(projectTitle)}/`; // Construct the folder path
         console.log(`Folder path for ${item.projectTitle}: ${folderPath}`);
         const fileExtensions = ['jpg', 'jpeg', 'png', 'gif']; // Supported file extensions
+        fileExtensions.forEach(ext => {
+            const filePath = `${folderPath}PrimaryImage.${ext}`;
+            console.log(`Checking file: ${filePath}`);
+        });
         let imageFound = false; // Flag to track if an image is found
 
         // Check for the existence of the PrimaryImage file
@@ -43,7 +47,7 @@ function createGridItems() {
                 // Ignore errors for missing files
             };
 
-            fileElement.src = filePath; // Trigger the file check
+            fileElement.src = `${filePath}?t=${new Date().getTime()}`; // Add a timestamp to bypass the cache
         });
 
         // Add additional data attributes to the grid item
@@ -90,6 +94,9 @@ function createGridItems() {
     addGridEventListeners(); // Apply to all non-tag buttons
     addGridEventListenersNoPopup(); // Apply to tag buttons
 }
+
+const folderPath = "images/Development%20of%20Humanized%20Mouse%20Models%20for%20Onchocerca%20Volvulus/";
+console.log(`Hardcoded folder path: ${folderPath}`);
 
 function DetailedInfo(clickedButton) {
     // Get the position of the clicked button
@@ -245,7 +252,7 @@ function DetailedInfo(clickedButton) {
 
     // Add the creator name underneath the description
     const creator = document.createElement('p');
-    creator.textContent = `Credits:<br> ${clickedButton.dataset.creatorName || "Unknown"}`; // Use creatorName for the paragraph
+    creator.innerHTML = `Credits:<br> ${clickedButton.dataset.creatorName || "Unknown"}`;
     creator.classList.add('popup-creator'); // Use CSS class for styling
 
     // Append text elements to the right column
