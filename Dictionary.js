@@ -483,6 +483,60 @@ const items = [
         categoryTags: ["Innovate", "Access"], // Updated
         imagePrimary: "images/2_reflection.jpg",
         imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Can Vernacular Architecture be High Performance",
+        projectDescription: "This student thesis project addressed the question: can vernacular architectural elements contribute to high performance buildings? The project explored traditional residential elements and civic spaces such as a merkaz (outdoor community spaces), the mashribiya (lattice work that controlled solar radiation and daylight and natural ventilation), and the geometric arrangement of urban spaces to facilitate passive design. The research found that by designing a prototypical high-performance mixed-use community in Makkah that incorporates vernacular elements, the result was a more integral sustainable home that can be used to decrease the slum population and pollution associated with modern building construction and operation.",
+        creatorName: "Khalid Mirza<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Resist", "Adapt"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Parking as a Source of Resilience",
+        projectDescription: "Over time, parking has expanded in the city and the suburbs. Each registered vehicle in the United States has 8 parking spots on average. In certain cities, the parking spots cover 68% of the land, making it the predominant landscape, promoting cars, and destroying the public realm. These parking lots significantly impact the environment by amplifying the Urban Heat Island Effect and preventing groundwater recharge. It also plays an essential role in reducing the health and well-being of an individual and making housing unaffordable.<br><br>The City of San Antonio lacks green spaces in the downtown area. This issue and the cities affordable housing crises could be potentially solved with the help of the excessive parking lots in the city. This thesis proposes a holistic design solution that is flexible and allows the building to adapt in the short term and long term. It also focuses on enhancing health and well-being and making the community stronger. Although the project would always be continuously evolving throughout its life, it would still save materials and embodied energy. The proposed design is energy efficient with an Energy Use Intensity (EUI) of 50 kBTU/sf/yr, it can achieve 93% water improvement when compared to the baseline standards and has well lite habitable areas with 300 lux of daylight. It also encourages community engagement and acts as a first step for the city-wide transformation. Such an approach would help create a more walkable and pedestrian-friendly environment for the citizens of San Antonio while connecting different parts of the cities.",
+        creatorName: "Vidit Soni<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Resist", "Adapt"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Net Zero Chemotherapy Center",
+        projectDescription: "This student thesis project explored the question: Can the architecture and site foster emotional and psychological wellbeing while reducing energy consumption and associated emissions? Healthcare centers are not just consuming large amounts of energy and emitting significant GHG emissions. They are also failing to support the comprehensive wellbeing of the patients, their communities, and staff members. At the national level, a cancer diagnosis is expected to hit 33% of Americans. At the city scale, Philadelphia had over 40,000 cancer cases between 2015-19 and is ranked fifth in new cases of cancer in 2022. Rising cases, poor quality care, and fewer treatment options worsen this reality. The architectural typology of healthcare facilities evolved from focusing on daylight and natural ventilation to a machine-like typology that spatially and visually separates patients from the environment and maximizes patient care efficiency over their comprehensive wellbeing while ignoring the wellbeing of caregivers and staff.<br><br>Through the development of sustainable design strategies allied to biophilia, a building and landscape is proposed to provide a holistic treatment environment for patients, their families, staff, and the community as a whole. The solution is a community-based chemotherapy infusion center that supports the local hospital by complimenting hospital treatment gaps through biophilia, integration with nature, psychological support, physical therapy, beauty aid, and community awareness. It was discovered that dividing the program into two buildings permitted improved energy efficiency, with the staff building reaching net-positive energy (after PV) and the patient building falling short of net-zero (EUI = 4 KBTU/sf/yr after PV).",
+        creatorName: "Sarah Rodovalho<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "AeroResort Net Zero Project",
+        projectDescription: "Student work explored the question if the hospitality sector could be net-zero in their design of a net-zero eco-resort in Philadelphia. The students did over 40 separate building simulations, along with rainwater harvesting and pv calculations. Resilience was added to the projects by the design of wetlands to protect the flood-prone neighborhood and by providing at least 3 days of backup water and energy supply. The student work also connected the site with the nearby trails of the John Heinz Wildlife Refuge and the Philadelphia Airport.",
+        creatorName: "Stephanie Jensen-Schmidt<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Resist", "Adapt"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "Net Zero Integrative Wellness Center",
+        projectDescription: "Rural areas often struggle to maintain access to quality healthcare services. The majority of the population and resources are concentrated in the cities, and the rural areas suffer and face the challenges due to high levels of poverty, sparse populations, lack of resources, and lack of education regardless of beautiful surroundings and strong communities. With the growing demand of climate emergency, it is critical to design resilient and sustainable buildings that are energy efficient by switching to adaptive thermal comfort design which can indirectly result in greater energy savings while providing more comfortable spaces.<br><br>The project aims to provide a holistic and patient-centered approach to quality care that will promote healthy behaviors and will focus on the overall health and wellness of the patients by alternative treatment methods. By applying sustainable design strategies, the project will reduce the carbon emissions, foster social equity and community growth, connect people with the natural environment, and support local ecological systems. It will also create an awareness to design sustainable healthcare centers that maintain and balance the environment.<br><br>To demonstrate energy savings, the project reduced the Energy Use Intensity from a baseline of 66 kBTU/sf/year to 45 kBTU/sf/year by using different passive design strategies, access to natural daylight, a well-insulated and tight thermal envelope, and using efficient HVAC systems. Furthermore, using natural ventilation in summer reduced the cooling loads of 6 kBTU/sf/year which resulted in greater energy savings, and helped to achieve Net-Zero energy by using renewable energy sources.",
+        creatorName: "Dhwani Gala<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Adapt", "Access"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
+    },
+    {
+        projectTitle: "App to Explore Nature of Personal Heritage",
+        projectDescription: "The current environmental crisis has an impeding point of no return date. Collectively, humans have the technology to solve it, but seemingly, lack the will. Indigenous leaders from around the world feel the reason so many people are unable to process the severity of climate change is because their relationship to nature is fractured. These leaders are urging all people to reconnect with their ancestral native lands and earth-based cultures in order to understand how to prioritize healing the earth from this crisis. By unlocking these forgotten histories and stories there is possibility of unlocking the ambition and the understanding to take on these issues. Each day, on average, people use digital screens 20 times more than they interact with nature. With this number rising each year, the human brain is simultaneously changing. What it primarily spends its time doing is what it tends to prioritize. In order to get back to nature, meeting people where they are spending the most time is crucial. A digital platform designed to connect humans with nature through their indigenous heritage can inspire nonvirtual, or real, connections with the Earth and encourage positive behavior change towards mitigating the environmental crisis.",
+        creatorName: "Carrie Collins<br>Thomas Jefferson University Masters of Sustainable Design",
+        color: "#ffffff",
+        categoryTags: ["Innovate", "Sustain"], // Updated
+        imagePrimary: "images/2_reflection.jpg",
+        imageSecondary: ["images/4_connection_details.jpg", "images/3_steps.jpg", "images/2_reflection.jpg"] // Multiple images in an array
     }
     // {
     //     projectTitle: "Unkown",
